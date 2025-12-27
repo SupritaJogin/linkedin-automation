@@ -1,0 +1,17 @@
+browser:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  viewport_width: 1366
+  viewport_height: 768
+  headless: false
+
+timing:
+  min_delay_ms: 800
+  max_delay_ms: 2500
+
+limits:
+  daily_connections: 5
+  daily_messages: 5
+
+schedule:
+  start_hour: 9
+  end_hour: 18
