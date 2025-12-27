@@ -52,3 +52,15 @@ go run cmd/main.go
 
 
 
+\## Demo Video 🎥
+
+
+
+Watch the demo of the LinkedIn Automation tool in action:
+
+
+
+\[Click here to view demo](https://drive.google.com/file/d/1rW-UcWqAUZt9nqcvkD\_TBad3Ilf7hI5p/view?usp=sharing)
+
+
+
